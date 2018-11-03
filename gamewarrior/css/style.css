@@ -172,11 +172,11 @@ ol {
 	background: #4eae60;
 }
 
-.cata.racing {
+.cata.notice {
 	background: #694eae;
 }
 
-.cata.adventure {
+.cata.fps {
 	background: #40abf5;
 }
 
@@ -463,8 +463,12 @@ ol {
 	background: #4eae60;
 }
 
-.news-ticker-contant .nt-item span.racing {
+.news-ticker-contant .nt-item span.fps_strategy {
 	background: #694eae;
+}
+
+.news-ticker-contant .nt-item span.futebol {
+	background: #013ADF;
 }
 
 /*------------------
@@ -484,7 +488,7 @@ ol {
 	left: 0;
 	top: 0;
 	background: #000;
-	opacity: .65;
+	opacity: .50;
 }
 
 .feature-item .cata {
@@ -507,7 +511,7 @@ ol {
 	margin-bottom: 18px;
 }
 
-.feature-item .fi-content .fi-comment {
+.feature-item .fi-content .fi-comment  {
 	font-size: 12px;
 	opacity: .54;
 }
