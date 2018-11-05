@@ -726,6 +726,12 @@ ol {
 	padding: 72px 0;
 }
 
+.site-logo2 {
+	display: inline-block;
+	float: left;
+	padding-top: 0px;
+}
+
 .footer-top-section .container {
 	position: relative;
 }
@@ -829,10 +835,12 @@ ol {
 ------------------------*/
 
 .footer-section {
-	padding: 18px 0 16px;
+	padding: 25px 0 16px;
 	overflow: hidden;
 	background: #252525;
+	
 }
+	
 
 .footer-menu {
 	list-style: none;
