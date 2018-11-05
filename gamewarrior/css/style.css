@@ -661,7 +661,7 @@ ol {
 
 .review-item .review-cover {
 	position: relative;
-	margin-bottom: 30px;
+	margin-bottom: 25px;
 	height: 345px;
 }
 
@@ -700,6 +700,10 @@ ol {
 	text-align: center;
 }
 
+h5 {
+	color: red;
+}
+
 .review-item .review-text h5 {
 	margin-bottom: 20px;
 }
@@ -723,7 +727,7 @@ ol {
 .footer-top-section {
 	background-image: url("../img/pattern.png");
 	background-repeat: repeat;
-	padding: 72px 0;
+	padding: 75px 0;
 }
 
 .site-logo2 {
