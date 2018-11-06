@@ -527,8 +527,9 @@ ol {
 }
 
 .recent-game-item .rgi-thumb {
-	height: 204px;
-	padding: 25px 28px;
+	height: 225px;
+	width: 100px;
+	padding: 25px 25px 0px 250px;
 }
 
 .recent-game-item .rgi-content {
@@ -1524,4 +1525,8 @@ h5 {
 	.page-info-section .pi-content h2 {
 		font-size: 40px;
 	}
+}
+
+#text1 {
+	padding: 50px 0px 0px 230px;
 }
