@@ -333,7 +333,7 @@ ol {
 	position: relative;
 	top: -80px;
 	opacity: 0;
-	-webkit-text-stroke-width: 3px; /* largura da borda */
+	-webkit-text-stroke-width: 1.5px; /* largura da borda */
     -webkit-text-stroke-color: #000; /* cor da borda */
 	font-size: 3.5em;
 }
