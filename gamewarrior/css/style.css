@@ -322,16 +322,20 @@ ol {
 .hero-slider .hs-text {
 	display: table-cell;
 	vertical-align: middle;
+	border: 100px;
+	border-color: black;
 }
 
 .hero-slider .hs-text h2 {
 	color: #fff;
-	font-weight: 400;
-	font-size: 60px;
+	font-weight: 400;	
 	margin-bottom: 30px;
 	position: relative;
 	top: -80px;
 	opacity: 0;
+	-webkit-text-stroke-width: 1.5px; /* largura da borda */
+    -webkit-text-stroke-color: #000; /* cor da borda */
+	font-size: 3.5em;
 }
 
 .hero-slider .hs-text h2 span {
