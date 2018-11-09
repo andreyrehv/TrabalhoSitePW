@@ -666,6 +666,7 @@ ol {
 	height: 345px;
 }
 
+
 .review-item .review-cover .score {
 	position: absolute;
 	width: 54px;
@@ -703,6 +704,10 @@ ol {
 
 h5 {
 	color: red;
+}
+
+h6{
+	color: white;
 }
 
 .review-item .review-text h5 {
@@ -1290,6 +1295,8 @@ h5 {
 	}
 	.review-item .review-cover {
 		height: 280px;
+		float: left;
+	  
 	}
 	.latest-blog .lb-item .lb-thumb {
 		width: 55px;
