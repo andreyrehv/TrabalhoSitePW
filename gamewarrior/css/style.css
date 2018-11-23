@@ -531,9 +531,8 @@ ol {
 }
 
 .recent-game-item .rgi-thumb {
-	height: 225px;
-	width: 100px;
-	padding: 25px 25px 0px 250px;
+	height: 204px;
+	padding: 25px 28px;
 }
 
 .recent-game-item .rgi-content {
@@ -661,7 +660,7 @@ ol {
 ------------------------*/
 
 .review-section {
-	background-position: right top;
+	background-position: top center;
 }
 
 .review-item .review-cover {
