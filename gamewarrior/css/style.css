@@ -99,6 +99,7 @@ ol {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: top center;
+	
 }
 
 .spad {
@@ -667,6 +668,10 @@ ol {
 	position: relative;
 	margin-bottom: 25px;
 	height: 345px;
+	border:none;
+     border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 15px 30px -1px #888888;
 }
 
 
@@ -1539,4 +1544,10 @@ h6{
 
 #text1 {
 	padding: 0px 0px 0px 0px;
+}
+#3{
+ border:none;
+     border: 1px solid;
+    padding: 10px;
+    box-shadow: 50000000px 1000000px 80000px 10000px #888888;
 }
